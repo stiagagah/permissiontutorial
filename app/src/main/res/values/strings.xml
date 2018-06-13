@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">belajarpermission</string>
+    <string name="tracking_enabled_notif">Tracking ON</string>
+</resources>
